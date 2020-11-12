@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentNumber>100922</StudentNumber>
+  <StudentName>Andrew Njuguna</StudentName>
+  <Course>BCOM</Course>
+  <Year>3</Year>
+  <Semester>1</Semester>
+</StudentDetails>

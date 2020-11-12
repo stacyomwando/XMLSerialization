@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudentDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentDetails>
+    <AdmissionNumber>1999</AdmissionNumber>
+    <StudentName>angela wambugu</StudentName>
+    <Course>BICS</Course>
+    <Year>4</Year>
+  </StudentDetails>
+  <StudentDetails>
+    <AdmissionNumber>78651</AdmissionNumber>
+    <StudentName>mark kirui</StudentName>
+    <Course>medicine</Course>
+    <Year>3</Year>
+  </StudentDetails>
+</ArrayOfStudentDetails>

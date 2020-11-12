@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Serialization_and_deserialization",
+    "\\Serialization_and_deserialization\\bin",
+    "\\Serialization_and_deserialization\\bin\\Debug",
+    "\\Serialization_and_deserialization\\bin\\Debug\\netcoreapp3.1",
+    "\\Serialization_and_deserialization\\bin\\Release",
+    "\\Serialization_and_deserialization\\bin\\Release\\netcoreapp3.1",
+    "\\Serialization_and_deserialization\\obj",
+    "\\Serialization_and_deserialization\\obj\\Debug"
+  ],
+  "SelectedNode": "\\Serialization_and_deserialization\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

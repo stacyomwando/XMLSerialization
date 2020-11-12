@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudentDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentDetails>
+    <AdmissionNumber>11100</AdmissionNumber>
+    <StudentName>eddy anya</StudentName>
+    <Course>Law</Course>
+    <Year>4</Year>
+  </StudentDetails>
+  <StudentDetails>
+    <AdmissionNumber>2900</AdmissionNumber>
+    <StudentName>rahab wanjiku</StudentName>
+    <Course>BCOM</Course>
+    <Year>2</Year>
+  </StudentDetails>
+  <StudentDetails>
+    <AdmissionNumber>1010</AdmissionNumber>
+    <StudentName>lisa maria</StudentName>
+    <Course>FE</Course>
+    <Year>3</Year>
+  </StudentDetails>
+  <StudentDetails>
+    <AdmissionNumber>2345</AdmissionNumber>
+    <StudentName>stacy wangui</StudentName>
+    <Course>ICS</Course>
+    <Year>4</Year>
+  </StudentDetails>
+</ArrayOfStudentDetails>
